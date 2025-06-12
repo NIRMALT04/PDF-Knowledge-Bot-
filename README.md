@@ -1,6 +1,6 @@
-<div align="center"> 
+
     # 🤖 PDF Knowledge Bot
-</div>
+
 
 <div align="center">
 
