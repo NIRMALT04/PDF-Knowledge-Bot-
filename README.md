@@ -1,5 +1,4 @@
-
-    # 🤖 PDF Knowledge Bot
+# 🤖 PDF Knowledge Bot
 
 
 <div align="center">
